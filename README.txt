@@ -9,12 +9,12 @@ ALGORITHM USED - Linear Regression
 
 Linear Regression is a machine learning algorithm based on supervised learning. It performs a regression task. 
 
-Workflow behind Implemention of K-Means Clustering
+Workflow behind Implemention of Linear Regression Algorithm:
 
-Import, readand understand the data. 
+1. Import, readand understand the data. 
 
-Visualize the data.
+2. Visualize the data.
 
-Train the model. Fit the data into the Linear Regression Model.
+3. Train the model. Fit the data into the Linear Regression Model.
 
-Test data and modify if required.
+4. Test data and modify if required.
