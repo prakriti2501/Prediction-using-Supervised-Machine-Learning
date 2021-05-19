@@ -1,4 +1,5 @@
 Prediction Using Unsupervised Machine Learning
+By: Prakriti Arora
 
 OBJECTIVE: predict the percentage of marks of an student based on the number of study hours.
 
